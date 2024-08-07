@@ -1,5 +1,4 @@
-# Returns-Tracking-Overview-Report---PBI
-Mục tiêu:
+		Mục tiêu:
 •	Phân tích: Đánh giá xu hướng và quy mô của hàng hóa bị trả lại (từ 1/1/2015 đến 6/30/2017).
 •	So sánh: So sánh số lượng và giá trị hàng hóa bị trả lại giữa các kỳ, các quốc gia, các danh mục sản phẩm.
 •	Đánh giá: Đánh giá tác động của các yếu tố như quốc gia, danh mục sản phẩm, thời gian đối với tỷ lệ hàng hóa bị trả lại.
@@ -30,3 +29,4 @@ Dự kiến tiếp tục phân tích chuyên sâu:
 •	Phân tích sâu hơn: Tìm hiểu nguyên nhân dẫn đến việc trả hàng (ví dụ: lỗi sản phẩm, không vừa size, không đúng mô tả,...).
 •	So sánh với đối thủ: So sánh tỷ lệ hàng hóa bị trả lại của doanh nghiệp với các đối thủ cạnh tranh.
 •	Dự báo: Dự báo xu hướng trả hàng trong tương lai để đưa ra các kế hoạch kinh doanh phù hợp.
+
